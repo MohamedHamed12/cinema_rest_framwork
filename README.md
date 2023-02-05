@@ -10,8 +10,8 @@ This project requires the following packages to be installed:
 
 ## Project Structure
 The project consists of the following components:
-- A Django app named `cinema` that contains models for movies and showtimes
-- A Django app named `api` that contains views and serializers for the REST API
+- A Django app named `ticket` that contains models for movies  views and serializers for the REST API
+
 
 ## Usage
 To run the project, first ensure that all required packages are installed. Then, navigate to the root directory of the project and run the following command:
