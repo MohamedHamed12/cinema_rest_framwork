@@ -16,8 +16,8 @@ The project consists of the following components:
 ## Usage
 To run the project, first ensure that all required packages are installed. Then, navigate to the root directory of the project and run the following command:
 
-markdown
-Copy code
+
+
 # Learning the Django Rest Framework with a Cinema App
 
 ## Introduction
