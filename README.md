@@ -1,7 +1,7 @@
 # Learning the Django Rest Framework with a Cinema App
 
 ## Introduction
-This repository contains a sample project that demonstrates the use of the Django Rest Framework (DRF) to build a REST API for a cinema app. The app allows users to view information about movies and their showtimes.
+This repository contains a sample project that demonstrates the use of the Django Rest Framework (DRF) to build a REST API for a cinema app. The app allows users to view information about movies and guests.
 
 ## Requirements
 This project requires the following packages to be installed:
